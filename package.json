@@ -1,0 +1,21 @@
+{
+  "name": "hexagon-portfolio",
+  "version": "1.0.0",
+  "description": "A stunning portfolio website with interactive hexagon elements and particle effects",
+  "main": "index.html",
+  "scripts": {
+    "screenshot": "node screenshot.js"
+  },
+  "keywords": [
+    "portfolio",
+    "hexagon",
+    "css",
+    "animation",
+    "particles"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 
