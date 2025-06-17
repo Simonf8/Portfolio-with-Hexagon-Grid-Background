@@ -1,4 +1,4 @@
-# Modern Portfolio with Hexagon Grid Background
+#Portfolio with Hexagon Grid Background
 
 A sleek portfolio website featuring a dark theme with an interactive hexagon grid background pattern.
 
